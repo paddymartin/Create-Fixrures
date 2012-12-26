@@ -1,0 +1,19 @@
+C:\Users\Paddy Martin\AppData\Local\Temporary Projects\Create Fixrures\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paddy Martin\AppData\Local\Temporary Projects\Create Fixrures\obj\x86\Debug\Create_Fixrures.Form1.resources
+C:\Users\Paddy Martin\AppData\Local\Temporary Projects\Create Fixrures\obj\x86\Debug\Create_Fixrures.Resources.resources
+C:\Users\Paddy Martin\AppData\Local\Temporary Projects\Create Fixrures\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paddy Martin\AppData\Local\Temporary Projects\Create Fixrures\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Vb10sbs\Create Fixrures\Create Fixrures\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Vb10sbs\Create Fixrures\Create Fixrures\obj\x86\Debug\Create_Fixrures.Form1.resources
+C:\Vb10sbs\Create Fixrures\Create Fixrures\obj\x86\Debug\Create_Fixrures.Resources.resources
+C:\Vb10sbs\Create Fixrures\Create Fixrures\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Vb10sbs\Create Fixrures\Create Fixrures\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Vb10sbs\Create Fixrures\Create Fixrures\bin\Debug\Create Fixrures.exe
+C:\Vb10sbs\Create Fixrures\Create Fixrures\bin\Debug\Create Fixrures.pdb
+C:\Vb10sbs\Create Fixrures\Create Fixrures\bin\Debug\Create Fixrures.xml
+C:\Vb10sbs\Create Fixrures\Create Fixrures\obj\x86\Debug\Create Fixrures.exe
+C:\Vb10sbs\Create Fixrures\Create Fixrures\obj\x86\Debug\Create Fixrures.xml
+C:\Vb10sbs\Create Fixrures\Create Fixrures\obj\x86\Debug\Create Fixrures.pdb
+D:\VB 2012 Projects\Vb10sbs\Create Fixrures\Create Fixrures\obj\x86\Debug\Create Fixrures.exe
+D:\VB 2012 Projects\Vb10sbs\Create Fixrures\Create Fixrures\obj\x86\Debug\Create Fixrures.xml
+D:\VB 2012 Projects\Vb10sbs\Create Fixrures\Create Fixrures\obj\x86\Debug\Create Fixrures.pdb
